@@ -1,5 +1,4 @@
 # Savannah Alfaro's Portfolio
-
 ![alt webpage](/assets/img/index_page.png)
 
 ## Welcome!
